@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=280&section=header&text=Armaan%20Arora&fontSize=60&fontColor=C9A9FF&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems%20Builder&descAlignY=52&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Generative+AI+Engineer;LLM+Application+Developer;RAG+Systems+Architect;Agentic+AI+%26+Automation+Engineer;Full+Stack+AI+Product+Builder;Open+Source+AI+Contributor" alt="Typing SVG" />
 
@@ -192,12 +191,6 @@ A multi-document RAG system enabling conversational Q&A over 100+ PDFs, with hyb
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&width=100%25)
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=armaan-arora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armaan-arora&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
 
 <br/>
 
@@ -209,25 +202,12 @@ A multi-document RAG system enabling conversational Q&A over 100+ PDFs, with hyb
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&width=100%25)
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=armaan-arora&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Followers,PullRequest,Issues,Repositories,Experience"/>
-
-</div>
+## 🏆 GitHub Trophie
 
 <br/>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&width=100%25)
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=armaan-arora&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9A9FF" width="100%"/>
-
-</div>
 
 <br/>
 
