@@ -183,7 +183,11 @@ A multi-document RAG system enabling conversational Q&A over 100+ PDFs, with hyb
 
 </div>
 
+🐍 Contribution Snake
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/armaan-arora/armaan-arora/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
 ## 🎯 Current Focus
 
