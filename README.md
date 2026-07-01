@@ -187,28 +187,7 @@ A multi-document RAG system enabling conversational Q&A over 100+ PDFs, with hyb
 
 </div>
 
-<br/>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&width=100%25)
-
-
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&width=100%25)
-
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&width=100%25)
-
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&width=100%25)
-
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&width=100%25)
 
 ## 🎯 Current Focus
 
