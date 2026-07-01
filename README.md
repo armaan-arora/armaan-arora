@@ -20,10 +20,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=armaan-arora&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/armaan-arora?style=for-the-badge&color=8b5cf6&labelColor=1a1a2e&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/armaan-arora?style=for-the-badge&color=8b5cf6&labelColor=1a1a2e&label=STARS"/>
-
 </div>
 
 <br/>
