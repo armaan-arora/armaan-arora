@@ -192,17 +192,6 @@ A multi-document RAG system enabling conversational Q&A over 100+ PDFs, with hyb
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&width=100%25)
 
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=armaan-arora&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
-
-</div>
-
-<br/>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&width=100%25)
-
-## 🏆 GitHub Trophie
 
 <br/>
 
@@ -213,17 +202,11 @@ A multi-document RAG system enabling conversational Q&A over 100+ PDFs, with hyb
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&width=100%25)
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/armaan-arora/armaan-arora/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> ⚠️ **Setup required:** this snake image only renders once you add the snake-generator GitHub Action to your `armaan-arora/armaan-arora` repo. See the instructions below the file.
 
 <br/>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&width=100%25)
+
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,100:302B63&height=2&width=100%25)
 
