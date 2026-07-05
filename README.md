@@ -28,7 +28,7 @@
 
 ## 🧠 About Me
 
-I'm a **Generative AI Engineer** focused on designing and shipping production-grade intelligent systems — from **LLM-powered applications** and **Retrieval-Augmented Generation (RAG) pipelines** to **autonomous agentic workflows**.
+I am a **Generative AI Engineer** focused on designing and shipping production-grade intelligent systems — from **LLM-powered applications** and **Retrieval-Augmented Generation (RAG) pipelines** to **autonomous agentic workflows**.
 
 My work sits at the intersection of **applied machine learning** and **software engineering** — I care as much about model behavior and prompt design as I do about latency, reliability, and correctness. I build with an **end-to-end ownership mindset**: from data ingestion and vector retrieval to orchestration and deployment.
 
